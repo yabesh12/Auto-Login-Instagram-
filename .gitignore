@@ -1,0 +1,12 @@
+.idea/
+venv/
+media/
+*.pyc
+db.sqlite3
+__sized__/
+__pycache__/
+templates/
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
+dump.json
